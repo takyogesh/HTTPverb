@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Dz1bHI698P3ffhsPMwKSUzDcmfhqUM1ABu6rZoP9dLY=",
+  "Source": "HTTPverb",
+  "BasePath": "_content/HTTPverb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
